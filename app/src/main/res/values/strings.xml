@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Andoid_Day8_Toast</string>
+
+    <string name="button_toast">Показать Toast</string>
 </resources>
